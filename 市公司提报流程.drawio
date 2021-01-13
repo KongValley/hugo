@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T11:00:33.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="PYKChbwxKvFYIZKoFWo2" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T11:01:17.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="jCs7rxDAJKZcFX9l6V0z" version="14.1.9" type="github">
   <diagram id="aqPo9Mse1N2Et3PvXwCJ" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="iqzAFODL22Mn3UQDVmFt-34" value="审核通过" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="iqzAFODL22Mn3UQDVmFt-21" source="iqzAFODL22Mn3UQDVmFt-31" target="iqzAFODL22Mn3UQDVmFt-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iqzAFODL22Mn3UQDVmFt-35" value="省物资部" style="swimlane;html=1;startSize=30;fontSize=15;" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-21">
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-35" value="省公司物资部" style="swimlane;html=1;startSize=30;fontSize=15;" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-21">
           <mxGeometry x="640" y="30" width="320" height="720" as="geometry" />
         </mxCell>
         <mxCell id="iqzAFODL22Mn3UQDVmFt-36" value="省公司物资部审核" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-35">
