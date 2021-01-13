@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T11:57:37.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="9l1apb2xs8-GvVuUmhKT" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T12:07:20.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="vc3mnZHjwAD1yQYSx9NO" version="14.1.9" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,16 +13,16 @@
         <mxCell id="H4fo828ms0VRvZTViUcg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="77e6c97f196da883-2" source="77e6c97f196da883-8" target="77e6c97f196da883-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-8" value="创建ECP2.0技术规范书ID" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="77e6c97f196da883-8" value="ECP2.0单体项目挂接技术规范书并生成技术规范书ID" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="65" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4fo828ms0VRvZTViUcg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="77e6c97f196da883-2" source="77e6c97f196da883-10" target="H4fo828ms0VRvZTViUcg-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-10" value="创建采购申请号" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="77e6c97f196da883-10" value="创建采购申请&lt;br&gt;并生成采购申请号" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4fo828ms0VRvZTViUcg-4" value="维护技术规范书" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="H4fo828ms0VRvZTViUcg-4" value="维护技术规范书ID" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="市公司主管部门" style="swimlane;html=1;startSize=30;fontSize=15;" parent="77e6c97f196da883-1" vertex="1">
