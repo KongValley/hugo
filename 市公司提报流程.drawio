@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T10:58:25.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.1.9" etag="-QXBwEYVB86U8_jWW8ge" type="github"><diagram id="aqPo9Mse1N2Et3PvXwCJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-13T11:00:33.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="PYKChbwxKvFYIZKoFWo2" version="14.1.9" type="github">
+  <diagram id="aqPo9Mse1N2Et3PvXwCJ" name="Page-1">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;市公司需求部门授权采购提报流程图&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=30;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=18;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="960" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-22" value="市公司需求部门" style="swimlane;html=1;startSize=30;fontSize=15;" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-21">
+          <mxGeometry y="30" width="320" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="iqzAFODL22Mn3UQDVmFt-22" source="iqzAFODL22Mn3UQDVmFt-24" target="iqzAFODL22Mn3UQDVmFt-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-24" value="创建ECP2.0技术规范书" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-22">
+          <mxGeometry x="20" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="iqzAFODL22Mn3UQDVmFt-22" source="iqzAFODL22Mn3UQDVmFt-26" target="iqzAFODL22Mn3UQDVmFt-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-26" value="创建采购申请号" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-22">
+          <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-27" value="挂接技术规范书" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-22">
+          <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-30" value="市公司物资部" style="swimlane;html=1;startSize=30;fontSize=15;fontStyle=1" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-21">
+          <mxGeometry x="320" y="30" width="320" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-31" value="市公司物资部审核" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-30">
+          <mxGeometry x="100" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-34" value="审核通过" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="iqzAFODL22Mn3UQDVmFt-21" source="iqzAFODL22Mn3UQDVmFt-31" target="iqzAFODL22Mn3UQDVmFt-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-35" value="省物资部" style="swimlane;html=1;startSize=30;fontSize=15;" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-21">
+          <mxGeometry x="640" y="30" width="320" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-36" value="省公司物资部审核" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="iqzAFODL22Mn3UQDVmFt-35">
+          <mxGeometry x="60" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="iqzAFODL22Mn3UQDVmFt-21" source="iqzAFODL22Mn3UQDVmFt-36" target="iqzAFODL22Mn3UQDVmFt-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="250" />
+              <mxPoint x="510" y="250" />
+            </Array>
+            <mxPoint x="750" y="230" as="sourcePoint" />
+            <mxPoint x="550" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-40" value="退回修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="iqzAFODL22Mn3UQDVmFt-39">
+          <mxGeometry x="-0.095" relative="1" as="geometry">
+            <mxPoint x="-34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=-0.025;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iqzAFODL22Mn3UQDVmFt-42" target="iqzAFODL22Mn3UQDVmFt-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="560" />
+              <mxPoint x="240" y="159" />
+            </Array>
+            <mxPoint x="370" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-42" value="提交采购申请" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="530" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="iqzAFODL22Mn3UQDVmFt-27" target="iqzAFODL22Mn3UQDVmFt-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iqzAFODL22Mn3UQDVmFt-31" target="iqzAFODL22Mn3UQDVmFt-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="700" />
+            </Array>
+            <mxPoint x="430" y="195" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-45" value="退回修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="iqzAFODL22Mn3UQDVmFt-44">
+          <mxGeometry x="-0.3462" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="iqzAFODL22Mn3UQDVmFt-47" target="iqzAFODL22Mn3UQDVmFt-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqzAFODL22Mn3UQDVmFt-47" value="修改相关内容" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
