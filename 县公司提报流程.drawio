@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T13:17:46.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="bIIwDLOurfxpZ58mcvaI" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-14T01:04:42.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Xr8oudUIqBTl0M0zP7QC" version="14.2.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="需求部门" style="swimlane;html=1;startSize=30;fontSize=15;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="30" width="240" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="4cxhfHIo7UR-cVewsCCE-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="10" y="160" width="140" height="530" as="geometry" />
         </mxCell>
         <mxCell id="H4fo828ms0VRvZTViUcg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="77e6c97f196da883-2" source="77e6c97f196da883-8" target="77e6c97f196da883-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="H4fo828ms0VRvZTViUcg-4" value="维护技术规范书ID" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4cxhfHIo7UR-cVewsCCE-5" value="ERP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="20" y="160" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="市公司主管部门" style="swimlane;html=1;startSize=30;fontSize=15;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="240" y="30" width="240" height="720" as="geometry" />
@@ -63,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H4fo828ms0VRvZTViUcg-6" value="提交采购申请" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fontFamily=Verdana;fontSize=8;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="530" width="140" height="60" as="geometry" />
+          <mxGeometry x="90" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H4fo828ms0VRvZTViUcg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="H4fo828ms0VRvZTViUcg-4" target="H4fo828ms0VRvZTViUcg-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
